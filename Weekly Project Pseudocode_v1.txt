@@ -1,0 +1,67 @@
+TULIS DAN SIMPAN'USIA MENIKAH' 
+MERUBAH variabel 'USIA' menjadi 'INTEGER'
+TENTUKAN variabel 'Anak Pertama Lahir Umur Lo', 'Anak Masuk SD Umur Lo', 'Anak Masuk SLTP Umur Lo', 'Anak Masuk SLTA Umur Lo', 'Anak Masuk Kuliah Umur Lo', 'Anak Lulus Kuliah Umur Lo', 'Anak Menikah Umur Lo'
+
+IF 'USIA MENIKAH' lebih kecil dari 20
+TULISKAN 'Lo terlalu dini untuk menikah'
+Anak pertama lahir umur lo sama dengan 'USIA INTEGER' ditambah 2
+Anak masuk SD umur Lo sama dengan anak pertama lahir umur lo ditambah 7
+Anak masuk SLTP umur Lo sama dengan anak masuk SD umur lo  ditambah 6
+Anak masuk SLTA umur Lo sama dengan anak masuk SLTP umur lo ditambah 3
+Anak masuk Kuliah umur Lo sama dengan anak masuk SLTA umur lo ditambah 3
+Anak lulus Kuliah umur Lo sama dengan anak Masuk kuliah umur lo ditambah 4
+Anak menikah Umur lo sama dengan anak lulus kuliah umur lo ditambah 2
+TAMPILKAN 'Lo terlalu dini untuk menikah', Anak Pertama Lahir Umur Lo', 'Anak Masuk SD Umur Lo', 'Anak Masuk SLTP Umur Lo', 'Anak Masuk SLTA Umur Lo', 'Anak Masuk Kuliah Umur Lo', 'Anak Lulus Kuliah Umur Lo', 'Anak Menikah Umur Lo'
+TAMPILKAN 'Nasehat : Mapan lahir dan batin dulu mblo dan thank you sudah mampir!!'
+
+Else IF 'USIA MENIKAH' lebih besar sama dengan 20 dan usia lebih kecil sama dengan 28
+TULISKAN 'Lo ideal untuk menikah'
+Anak pertama lahir umur lo sama dengan 'USIA INTEGER' ditambah 2
+Anak masuk SD umur Lo sama dengan anak pertama lahir umur lo ditambah 7
+Anak masuk SLTP umur Lo sama dengan anak masuk SD umur lo  ditambah 6
+Anak masuk SLTA umur Lo sama dengan anak masuk SLTP umur lo ditambah 3
+Anak masuk Kuliah umur Lo sama dengan anak masuk SLTA umur lo ditambah 3
+Anak lulus Kuliah umur Lo sama dengan anak Masuk kuliah umur lo ditambah 4
+Anak menikah Umur lo sama dengan anak lulus kuliah umur lo ditambah 2
+TAMPILKAN 'Lo ideal untuk menikah', Anak Pertama Lahir Umur Lo', 'Anak Masuk SD Umur Lo', 'Anak Masuk SLTP Umur Lo', 'Anak Masuk SLTA Umur Lo', 'Anak Masuk Kuliah Umur Lo', 'Anak Lulus Kuliah Umur Lo', 'Anak Menikah Umur Lo'
+TAMPILKAN 'Nasehat : Tunggu apalagi?? Halalkan sekarang atau tinggalkan Mblo dan thank you sudah mampir!!'
+
+
+Else IF 'USIA MENIKAH' lebih besar sama dengan 29 dan usia lebih kecil sama dengan 31
+TULISKAN 'Lo sudah matang untuk menikah'
+Anak pertama lahir umur lo sama dengan 'USIA INTEGER' ditambah 2
+Anak masuk SD umur Lo sama dengan anak pertama lahir umur lo ditambah 7
+Anak masuk SLTP umur Lo sama dengan anak masuk SD umur lo  ditambah 6
+Anak masuk SLTA umur Lo sama dengan anak masuk SLTP umur lo ditambah 3
+Anak masuk Kuliah umur Lo sama dengan anak masuk SLTA umur lo ditambah 3
+Anak lulus Kuliah umur Lo sama dengan anak Masuk kuliah umur lo ditambah 4
+Anak menikah Umur lo sama dengan anak lulus kuliah umur lo ditambah 2
+TAMPILKAN 'Lo sudah matang untuk menikah', Anak Pertama Lahir Umur Lo', 'Anak Masuk SD Umur Lo', 'Anak Masuk SLTP Umur Lo', 'Anak Masuk SLTA Umur Lo', 'Anak Masuk Kuliah Umur Lo', 'Anak Lulus Kuliah Umur Lo', 'Anak Menikah Umur Lo'
+TAMPILKAN 'Nasehat : Buruan!! Halalkan sekarang jangan banyak pilih dan thank you sudah mampir!!'
+
+
+Else IF 'USIA MENIKAH' lebih besar sama dengan 32 dan usia lebih kecil sama dengan 34
+TULISKAN 'Status lo Waspada untuk menikah'
+Anak pertama lahir umur lo sama dengan 'USIA INTEGER' ditambah 2
+Anak masuk SD umur Lo sama dengan anak pertama lahir umur lo ditambah 7
+Anak masuk SLTP umur Lo sama dengan anak masuk SD umur lo  ditambah 6
+Anak masuk SLTA umur Lo sama dengan anak masuk SLTP umur lo ditambah 3
+Anak masuk Kuliah umur Lo sama dengan anak masuk SLTA umur lo ditambah 3
+Anak lulus Kuliah umur Lo sama dengan anak Masuk kuliah umur lo ditambah 4
+Anak menikah Umur lo sama dengan anak lulus kuliah umur lo ditambah 2
+TAMPILKAN 'Status lo waspada untuk menikah', Anak Pertama Lahir Umur Lo', 'Anak Masuk SD Umur Lo', 'Anak Masuk SLTP Umur Lo', 'Anak Masuk SLTA Umur Lo', 'Anak Masuk Kuliah Umur Lo', 'Anak Lulus Kuliah Umur Lo', 'Anak Menikah Umur Lo'
+TAMPILKAN 'Nasehat : Apalagi yang lo tunggu?? Jangan tunda lagi dan thank you sudah mampir!!'
+
+
+Else IF 'USIA MENIKAH' lebih besar sama dengan 35 dan usia lebih kecil sama dengan 100
+TULISKAN 'Status lo siaga untuk menikah'
+Anak pertama lahir umur lo sama dengan 'USIA INTEGER' ditambah 2
+Anak masuk SD umur Lo sama dengan anak pertama lahir umur lo ditambah 7
+Anak masuk SLTP umur Lo sama dengan anak masuk SD umur lo  ditambah 6
+Anak masuk SLTA umur Lo sama dengan anak masuk SLTP umur lo ditambah 3
+Anak masuk Kuliah umur Lo sama dengan anak masuk SLTA umur lo ditambah 3
+Anak lulus Kuliah umur Lo sama dengan anak Masuk kuliah umur lo ditambah 4
+Anak menikah Umur lo sama dengan anak lulus kuliah umur lo ditambah 2
+TAMPILKAN 'Status lo siaga untuk menikah', Anak Pertama Lahir Umur Lo', 'Anak Masuk SD Umur Lo', 'Anak Masuk SLTP Umur Lo', 'Anak Masuk SLTA Umur Lo', 'Anak Masuk Kuliah Umur Lo', 'Anak Lulus Kuliah Umur Lo', 'Anak Menikah Umur Lo'
+TAMPILKAN 'Nasehat : Apalagi yang lo tunggu?? Sekaranglah menikah atau tidak selamanya dan thank you sudah mampir!!'
+
