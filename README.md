@@ -1,5 +1,5 @@
 # prediksiusianikah.github.io
-Prediction of marriage age Apps_weekly project for Hacktive 8 phase 0 week 2
+Prediksi Usia Nikah Apps_Weekly project for Hacktiv 8 phase 0 week 2
 
 ## How to Play
 
